@@ -7,3 +7,5 @@ creating a new branch is quick and simple.
 =======
 creating a new branch is quick and simple.
 >>>>>>> feature1
+git merge defaultly used fast forward partten to merge the branches.
+we can use --no-ff option to forbid the fast forward partten.
